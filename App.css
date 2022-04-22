@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+}
+.first{
+    margin-right: 100px;
+}
+.second{
+    margin-right: 100px;
+}
+.third{
+    margin-right: 100px;
+}
+.fourth{
+    margin-right: 100px;
+}
+.total{
+    display: flex;
+}
+.textBox{
+    margin-left: 50px;
+    width: 150px !important;
+
+}
+.main input {
+    width: 45px;
+    
+}
